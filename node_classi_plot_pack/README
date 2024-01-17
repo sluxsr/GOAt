@@ -1,0 +1,3 @@
+$ python nc_plots.py --mutual 0 --topk 12 --dataset ba_shape --explainer goat
+$ python nc_plots.py --mutual 0 --topk 12 --dataset ba_community --explainer goat
+$ python nc_plots.py --mutual 0 --topk 12 --dataset tree_grid --explainer goat
